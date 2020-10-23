@@ -1,5 +1,5 @@
 # genome annotation without RNA-seq
-## Install of software
+## Install of software *(Did not pass tests!!!)*
 **Maker2**
 This is the best way to install maker sotfware and all others will be needed(SNAP, RepeatMasker...)
 ``` bash
