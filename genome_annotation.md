@@ -1,7 +1,8 @@
 # genome annotation without RNA-seq
 ## Install of software *(Did not pass tests!!!)*
-**Maker2**
-This is the best way to install maker sotfware and all others will be needed(SNAP, RepeatMasker...)
+**Maker2**  
+This is the best way to install maker sotfware and all others will be needed(SNAP, RepeatMasker...)  
+**Warning: You should build the Maker2 from source!!!!!**  
 ``` bash
 conda create --name MAKER python=2.7
 conda activate MAKER
