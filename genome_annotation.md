@@ -74,5 +74,5 @@ cd ..
 hmm-assembler.pl genome.fasta params > genome.hmm
 cp genome.hmm ../prediction
 cd ../prediction
-nohup snap -aa genome.snap.rnd1.protein.fasta -tx genome.snap.rnd1.transcripts.fasta -name snap Am_genome.hmm genome.fasta -gff > genome.snap.rnd1.gff &
+nohup snap -aa genome.snap.rnd1.protein.fasta -tx genome.snap.rnd1.transcripts.fasta -name snap genome.hmm genome.fasta -gff > genome.snap.rnd1.gff &
 ```
